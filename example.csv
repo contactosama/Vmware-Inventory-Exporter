@@ -1,0 +1,32 @@
+﻿Cluster 20,,,,,,,
+Name,State,Status,Provisioned Space,Used Space,Host CPU,Host Mem,Datastore
+January,Powered On,Normal,208.1 GB,109.25 GB,285 MHz,7.88 GB,HPMSA-SAS-V01-EN3
+February,Powered On,Normal,9.08 GB,9.08 GB,53 MHz,1.03 GB,HPMSA-SAS-V01-EN3
+March,Powered On,Normal,544.09 GB,544.09 GB,1.37 GHz,32.14 GB,HPMSA-SAS-V01-EN3
+April,Powered On,Normal,512.1 GB,502.22 GB,492 MHz,11.79 GB,HPMSA-SAS-V01-EN3
+May,Powered On,Normal,216.14 GB,84.4 GB,16.67 GHz,16.1 GB,HPMSA-SAS-V01-EN3
+June,Powered On,Normal,9.08 GB,6.93 GB,80 MHz,889 MB,HPMSA-SAS-V01-EN3
+July,Powered On,Normal,4.36 TB,3.31 TB,1.56 GHz,37.08 GB,HPMSA-SAS-V01-EN3
+August,Powered On,Normal,7.08 GB,1.39 GB,538 MHz,926 MB,HPMSA-SAS-V02-EN3
+September,Powered On,Normal,3.11 TB,3.1 TB,1.71 GHz,31.98 GB,HPMSA-SAS-V02-EN3
+October,Powered On,Normal,423.08 GB,358.6 GB,440 MHz,2.86 GB,HPMSA-SAS-V03-EN4
+November,Powered On,Normal,408.09 GB,154.1 GB,829 MHz,7.81 GB,HPMSA-SAS-V03-EN4
+December,Powered On,Normal,216.76 GB,216.76 GB,5 GHz,16.08 GB,HPMSA-SAS-V03-EN4
+January,Powered On,Normal,231.02 GB,155.45 GB,155 MHz,16.08 GB,HPMSA-SSD-V01
+February,Powered On,Normal,269.09 GB,226.71 GB,2.15 GHz,18.88 GB,HPMSA-SSD-V01
+March,Powered On,Normal,362.1 GB,361.24 GB,2.05 GHz,11.86 GB,HPMSA-SSD-V02
+April,Powered On,Normal,136.09 GB,121.23 GB,2.26 GHz,8.06 GB,HPMSA-SSD-V02
+May,Powered On,Normal,5.08 GB,1.36 GB,53 MHz,930 MB,HPMSA-SSD-V02
+June,Powered On,Normal,703.92 GB,238.31 GB,2.39 GHz,32.14 GB,HPMSA-SSD-V03-EN2
+July,Powered On,Normal,10.08 GB,10.08 GB,25 MHz,1.54 GB,HPMSA-SSD-V03-EN2
+August,Powered On,Normal,288.09 GB,288.09 GB,233 MHz,31.99 GB,HPMSA-SSD-V03-EN2
+September,Powered On,Normal,1.03 TB,502.97 GB,1.32 GHz,56.21 GB,HPMSA-SSD-V03-EN2
+October,Powered On,Normal,1.03 TB,1.03 TB,77 MHz,32.12 GB,HPMSA-SSD-V03-EN2
+November,Powered On,Normal,12.08 GB,12.08 GB,53 MHz,1.68 GB,HPMSA-SSD-V03-EN2
+December,Powered On,Normal,258.08 GB,32.15 GB,77 MHz,8.02 GB,HPMSA-SSD-V04-EN2
+January,Powered On,Normal,158.09 GB,158.09 GB,1.13 GHz,7.95 GB,HPMSA-SSD-V04-EN2
+February,Powered On,Normal,1.53 TB,1.23 TB,646 MHz,32.15 GB,HPMSA-SSD-V04-EN2
+March,Powered On,Normal,128.09 GB,126.92 GB,1.84 GHz,8.07 GB,HPMSA-SSD-V04-EN2
+April,Powered On,Normal,250.09 GB,97.03 GB,107 MHz,15.69 GB,HPMSA-SSD-V04-EN2
+May,Powered On,Normal,716.09 GB,374.68 GB,107 MHz,15.73 GB,HPMSA-SSD-V04-EN2
+June,Powered On,Normal,616.09 GB,521.29 GB,103 MHz,15.6 GB,HPMSA-SSD-V04-EN2
